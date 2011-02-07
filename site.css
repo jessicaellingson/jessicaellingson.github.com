@@ -76,11 +76,11 @@ section #about div {
   width: 624px;
   background-color: rgba(250, 250, 250, 0.5);
   border-radius: 10px;
-  padding: 1px 17px;
+  padding: 1px 17px 17px;
   margin-top: 15px;
-  font-family: 'Josefin Sans', arial, serif;
+  font-family: arial, serif;
   color: #246E72;
-  font-size: 1.1em;
+  font-size: .95em;
 }
 
 section #about #links {
@@ -91,4 +91,14 @@ section #about #links {
 
 section #about #links img {
   margin-right: 0px;
+}
+
+section #thumbnails img {
+  border-radius: 10px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+
+section #thumbnails {
+  width: 700px;
 }
