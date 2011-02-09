@@ -17,8 +17,13 @@ header {
   display: block;
 }
 
+#wrap {
+  width: 700px;
+  margin: 0 auto;
+}
+
 nav {
-  width: 400px;
+  width: 325px;
   display: inline-block;
   margin-left: 20px;
   position: relative;
