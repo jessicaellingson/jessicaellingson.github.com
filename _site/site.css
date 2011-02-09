@@ -89,6 +89,33 @@ section #about div {
   font-size: .95em;
 }
 
+section #about a:hover {
+  text-decoration: underline;
+  font-family: arial, serif;
+  font-size: .95em;
+  font-weight: bold;
+  text-align: center
+}
+
+section #about a {
+  text-decoration: none;
+  color: #246E72;
+  font-size: .95em;
+  font-family: arial, serif;
+  font-weight: bold;
+  text-align: center
+}
+
+section #about h2 {
+  font-size: 1em;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+section #about span {
+  text-align: center
+}
+
 section #links {
   margin-left: auto;
   margin-right: auto;
@@ -97,7 +124,7 @@ section #links {
 
 section #links img {
   margin-right: 0px;
-  margin-top: 17px;
+  margin-top: 5px;
 }
 
 section #thumbnails img {
@@ -148,6 +175,27 @@ section #resume h2 {
 
 section #resume ul {
   margin-top: 0px;
+}
+
+section #resume a:hover {
+  text-decoration: underline;
+  font-family: arial, serif;
+  font-size: .95em;
+  font-weight: bold;
+  text-align: center
+}
+
+section #resume a {
+  text-decoration: none;
+  color: #246E72;
+  font-size: .95em;
+  font-family: arial, serif;
+  font-weight: bold;
+  text-align: center
+}
+
+section #resume span {
+  text-align: center
 }
 
 section #resume #education {
