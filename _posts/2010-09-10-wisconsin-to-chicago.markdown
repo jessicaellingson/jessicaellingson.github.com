@@ -1,0 +1,10 @@
+---
+layout: post
+title: Wisconsin to Chicago
+---
+
+Ethan and I have been living together for 3 years now. Three years is a lot of time to accumulate A LOT of junk. In 3 years we have moved 3 times and until a couple months ago, we still had boxes from our first apartment together that had yet to be unpacked.We had boxes full of cords that we have no idea what they belonged to. We had old broken computers, and more artwork than walls. In June, when we moved from a two story, two bedroom duplex in Wisconsin to a tiny 500 square foot one bedroom apartment in Chicago it was time to downsize. Ethan was already living in Chicago during the packing stage (how convenient!) so it was up to me to decide what to keep and what to get rid of and how to pack all of our belongings for the 400 mile trip to our new home. After several long weeks I learned that moving is a big deal. Packing sucks no matter how organized you are and you don't realize how much garbage you have accumulated until you see it sitting on the curb. Moving makes you hot and sweaty and miserable and your dog will be mad at you no matter how easy you try and make the move on her. I learned that you can always get rid of more stuff and it's very, very important to make sure the door on the moving truck is properly latched.
+
+With both of us being from small towns, living in Chicago has been a totally new experience and a huge change for us. We no longer have a car and have become experts on getting anywhere we need to go via public transportation. Moving to Chicago in the beginning of the summer allowed us to experience being a tourist as well as a resident. We're discovering new restaurants we love and some we don't love (Ethan would eat dinner at Ian's Pizza in Wrigleyville every night if I let him). Overall we are both really happy. It's been a crazy ride coming from a small town to the big city and I'm looking forward to what Chicago has to offer us in the future.
+
+Here are some pictures from our first summer as Chicago residents.
