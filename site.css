@@ -255,3 +255,92 @@ section #portfolio img {
   font-family: arial, serif;
   color: #246E72;
 }
+
+.right_picture {
+  float: right;
+}
+
+.left_picture {
+  float: left;
+}
+
+article {
+  width: 624px;
+  padding: 1px 17px 17px;
+  margin-top: 15px;
+  font-size: .95em
+}
+
+article img {
+  display: inline;
+  margin: 10px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+section #blog_images_center {
+  text-align: center;
+}
+
+section #center_images {
+  text-align: center;
+  border-radius: 10px;
+  display: inline;
+}
+
+section #threeimages img {
+  margin-right: 15px;
+  border-radius: 10px;
+}
+
+section #threeimages div {
+  width: 624px;
+  padding: 1px 17px 17px;
+  margin-top: 15px;
+  font-size: .95em;
+}
+
+section #threeimages h1 {
+  font-weight: bold;
+  font-size: 1.2em;
+  margin-bottom: 0px;
+  margin-top: 25px;
+}
+
+section #threeimages h2 {
+  font-size: 1em;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+section #threeimages p {
+  margin-top: 0px;
+}
+
+section #oneimage img {
+  border-radius: 10px;
+}
+
+section #oneimage div {
+  width: 624px;
+  padding: 1px 17px 17px;
+  margin-top: 15px;
+  font-size: .95em;
+}
+
+section #oneimage h1 {
+  font-weight: bold;
+  font-size: 1.2em;
+  margin-bottom: 0px;
+  margin-top: 25px;
+}
+
+section #oneimage h2 {
+  font-size: 1em;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+section #oneimage p {
+  margin-top: 0px;
+}

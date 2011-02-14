@@ -4,7 +4,7 @@ title: Blog
 ---
 
 {% for post in site.posts %}
-  <article>
+  <article class="rounded_box">
     <h2 id="post_title">{{ post.title }}</h2>
     <aside>{{ post.date | date_to_long_string }}</aside>
     {{ post.content }}
