@@ -127,6 +127,8 @@ section #thumbnails img {
   border-radius: 10px;
   margin-right: 15px;
   margin-bottom: 15px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
 }
 
 section #thumbnails {
@@ -276,6 +278,8 @@ article img {
   margin: 10px;
   text-align: center;
   border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
 }
 
 section #blog_images_center {
@@ -342,5 +346,35 @@ section #oneimage h2 {
 }
 
 section #oneimage p {
+  margin-top: 0px;
+}
+
+section #siximages img {
+  margin-right: 15px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+section #siximages div {
+  width: 624px;
+  padding: 1px 17px 17px;
+  margin-top: 15px;
+  font-size: .95em;
+}
+
+section #siximages h1 {
+  font-weight: bold;
+  font-size: 1.2em;
+  margin-bottom: 0px;
+  margin-top: 25px;
+}
+
+section #siximages h2 {
+  font-size: 1em;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+section #siximages p {
   margin-top: 0px;
 }
