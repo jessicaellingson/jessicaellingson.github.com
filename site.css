@@ -297,21 +297,21 @@ section #threeimages img {
   border-radius: 10px;
 }
 
-section #threeimages div {
+section #description {
   width: 624px;
   padding: 1px 17px 17px;
   margin-top: 15px;
   font-size: .95em;
 }
 
-section #threeimages h1 {
+section #description h1 {
   font-weight: bold;
   font-size: 1.2em;
   margin-bottom: 0px;
   margin-top: 25px;
 }
 
-section #threeimages h2 {
+section #description h2 {
   font-size: 1em;
   margin-bottom: 0px;
   margin-top: 0px;
@@ -377,4 +377,11 @@ section #siximages h2 {
 
 section #siximages p {
   margin-top: 0px;
+}
+
+#main-image {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0px;
 }
