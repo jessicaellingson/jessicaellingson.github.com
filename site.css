@@ -112,6 +112,10 @@ section #about span {
   text-align: center
 }
 
+section #resume h2 a {
+  text-decoration: underline;
+}
+
 section #links {
   margin-left: auto;
   margin-right: auto;
@@ -213,7 +217,7 @@ section #resume ul#programs li {
 
 section #resume #programs-wrapper {
   margin-bottom: 15px;
-  height: 90px;
+  height: 75px;
 }
 
 section #contact {
